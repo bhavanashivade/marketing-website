@@ -337,11 +337,12 @@ form input {
 .box-container2 {
     display: flex;
     margin-top: 400px;
-    margin-left: 100px;
+    /* margin-left: 100px; */
     text-align: center;
     background-color: rgb(186, 180, 180);
     color: black;
-    width: 1265px;
+    /* width: 1265px; */
+    width: 1500px;
     justify-content: center;
     height: 200px;
 
